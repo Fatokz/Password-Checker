@@ -7,6 +7,6 @@ function Confirm() {
     } 
 
     else {
-        alert("Wrong password")
+        alert("Password doesn't match")
     }
 }
