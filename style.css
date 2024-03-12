@@ -7,5 +7,29 @@ body{
     background-color: aliceblue;
 }
 .password{
-    
+    height: 15em;
+    width: 30%;
+    background-color: white;
+    margin: 10% 35% 10% 35%;
+    border-radius: 10px ;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+label{
+    /* margin-top: 10%; */
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.forms{
+    /* margin-top: 10%; */
+    /* background-color: red; */
+    width: 80%;
+    height: 10em;
+    padding-top: 30px;
+    margin: 10% 10% 10% 10%;
+}
+input{
+    width: 85%;
+    height: 40px;
+    font-size: 15px;
+    border: 1px solid aqua;
 }
