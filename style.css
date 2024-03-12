@@ -32,4 +32,8 @@ input{
     height: 40px;
     font-size: 15px;
     border: 1px solid aqua;
+    border-radius: 8px;
+}
+input:focus{
+    outline: 2px solid blue;
 }
